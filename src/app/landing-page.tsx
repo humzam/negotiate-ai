@@ -1,9 +1,9 @@
-import Link from 'next/link'
-import { Button } from '@/components/ui/button'
+import { Button } from "@/components/ui/button"
+import Link from "next/link"
 
-export default function Home() {
+export default function LandingPage() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col dark bg-gray-900 text-white">
       <header className="py-6 px-4 sm:px-6 lg:px-8 border-b border-gray-800">
         <div className="container mx-auto flex justify-between items-center">
           <Link href="/" className="text-2xl font-bold">
