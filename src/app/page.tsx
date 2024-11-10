@@ -98,7 +98,7 @@ export default function Home() {
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl font-bold mb-6 text-white">Ready to Negotiate?</h2>
               <p className="text-gray-300 mb-8">
-                Don't leave money on the table. Let NegotiateAI help you craft the perfect response to secure the compensation you deserve.
+                Don&apos;t leave money on the table. Let NegotiateAI help you craft the perfect response to secure the compensation you deserve.
               </p>
               <Button size="lg">
                 Start Your Negotiation
